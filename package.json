@@ -1,0 +1,24 @@
+{
+  "name": "tkata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "chalk": "^2.4.2",
+    "console-png": "^1.2.1",
+    "fast-levenshtein": "^3.0.0",
+    "image-convert": "^0.1.33",
+    "jimp": "^0.22.10",
+    "node-html-parser": "^6.1.12",
+    "openurl": "^1.1.1",
+    "prompt-sync": "^4.2.0",
+    "request": "^2.88.2",
+    "resize-image-buffer": "^1.0.0"
+  }
+}
